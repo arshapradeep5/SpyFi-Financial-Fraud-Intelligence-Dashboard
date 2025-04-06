@@ -1,31 +1,31 @@
 # 🕵️‍♂️ SpyFi – Financial Fraud Intelligence Dashboard
 
-> **Theme**: Dark | **Tool**: Power BI | **Purpose**: Real-time financial fraud detection and risk insights
+> **Theme**: Dark | **Tool**: Power BI | **Purpose**: Real-time financial fraud detection and actionable risk insights
 
 ---
 
 ## 🌐 Overview
 
-**SpyFi** is an end-to-end **Fraud Detection and Financial Intelligence** dashboard built in **Power BI**, crafted to:
+**SpyFi** is a comprehensive **Fraud Detection & Financial Intelligence** dashboard developed in **Power BI**. It is designed to:
 
-- Monitor transaction behaviors
-- Detect suspicious activities
-- Empower decision-makers with actionable risk intelligence
+- Monitor and analyze transaction behaviors
+- Detect suspicious and high-risk activities
+- Empower decision-makers with real-time, actionable insights
 
-Designed with a modern dark theme and intuitive layout, **SpyFi** merges analytics with visual storytelling to support real-time decisions in financial environments.
+Built with a sleek dark theme and an intuitive layout, **SpyFi** integrates advanced analytics with visual storytelling to support informed decisions in financial environments.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- 🖤 **Dark-Themed Executive UI** for a sleek and professional look  
-- 📊 **Overview Tab**: Total transactions, customer activity, channel insights, and trends  
-- 🚨 **Risk & Anomaly Insights**: Highlights suspicious transactions, high-risk accounts & patterns  
-- 🔔 **Notification Panel**: Real-time alerts on flagged transactions  
-- 📋 **Activity Tracker**: Actions like account blocking, investigation follow-up  
-- 🔐 **Role-Level Security**: Admin, Branch Head, Analyst views  
-- 🧩 **Dynamic Drilldowns**: Filter by channel, customer, transaction type, and time  
-- 🟥 **Red Accents**: Emphasize risk and anomaly sections
+- **Executive Dark-Themed UI**: Clean and modern design tailored for leadership
+- **Overview Tab**: Displays key metrics like transaction volumes, customer activity, and trends
+- **Risk & Anomaly Detection**: Highlights suspicious transactions and high-risk account patterns
+- **Real-Time Alerts**: Notification panel for flagged activities
+- **Activity Tracker**: Tracks investigation actions like account blocking and follow-ups
+- **Role-Level Security**: Customized views for Admin, Branch Heads, and Analysts
+- **Interactive Drilldowns**: Dynamic filters by channel, transaction type, customer, and time
+- **Visual Risk Cues**: Use of red accents to emphasize anomalies and alerts
 
 ---
 
@@ -39,20 +39,29 @@ Designed with a modern dark theme and intuitive layout, **SpyFi** merges analyti
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Dashboard Preview
 
-![image](https://github.com/user-attachments/assets/eb574933-5bf9-485b-ae54-ae72024f6db7)
+![SpyFi Dashboard Overview](https://github.com/user-attachments/assets/eb574933-5bf9-485b-ae54-ae72024f6db7)
 
-![image](https://github.com/user-attachments/assets/c3a25ea5-ef07-4033-a0c0-2af6cc493ee1)
+![Risk & Anomaly Detection](https://github.com/user-attachments/assets/c3a25ea5-ef07-4033-a0c0-2af6cc493ee1)
 
+---
 
+## 🧑‍💼 User Roles & Access Control
 
-## 🧑‍💼 Roles & Access
+| Role         | Access Scope               |
+|--------------|----------------------------|
+| **Admin**        | Full access across all data and dashboards |
+| **Branch Head**  | Access limited to specific branch data |
+| **Analyst**      | Read-only access to flagged transactions and insights |
 
-| Role         | Access Level             |
-|--------------|--------------------------|
-| Admin        | Full access across data  |
-| Branch Head  | Filtered by branch       |
-| Analyst      | Read-only suspicious insights |
+---
 
+## 📬 Connect with Me
+
+**Arsha Pradeep**  
+🔗 [LinkedIn](https://www.linkedin.com/in/arshapradeep)  
+📧 [Email](mailto:your.email@example.com)
+
+---
 
