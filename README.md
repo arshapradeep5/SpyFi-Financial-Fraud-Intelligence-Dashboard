@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="custom.css">
 
-# 🕵️‍♂️ SpyFi – Financial Fraud Intelligence Dashboard
+# SpyFi – Financial Fraud Intelligence Dashboard
 
 > **Theme**: Dark | **Tool**: Power BI | **Purpose**: Real-time financial fraud detection and risk insights
 
@@ -18,16 +18,16 @@ Designed with a modern dark theme and intuitive layout, **SpyFi** merges analyti
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- 🖤 **Dark-Themed Executive UI** for a sleek and professional look  
-- 📊 **Overview Tab**: Total transactions, customer activity, channel insights, and trends  
-- 🚨 **Risk & Anomaly Insights**: Highlights suspicious transactions, high-risk accounts & patterns  
-- 🔔 **Notification Panel**: Real-time alerts on flagged transactions  
-- 📋 **Activity Tracker**: Actions like account blocking, investigation follow-up  
-- 🔐 **Role-Level Security**: Admin, Branch Head, Analyst views  
-- 🧩 **Dynamic Drilldowns**: Filter by channel, customer, transaction type, and time  
-- 🟥 **Red Accents**: Emphasize risk and anomaly sections  
+- **Dark-Themed Executive UI** for a sleek and professional look  
+- **Overview Tab**: Total transactions, customer activity, channel insights, and trends  
+- **Risk & Anomaly Insights**: Highlights suspicious transactions, high-risk accounts & patterns  
+- **Notification Panel**: Real-time alerts on flagged transactions  
+- **Activity Tracker**: Actions like account blocking, investigation follow-up  
+- **Role-Level Security**: Admin, Branch Head, Analyst views  
+- **Dynamic Drilldowns**: Filter by channel, customer, transaction type, and time  
+- **Red Accents**: Emphasize risk and anomaly sections  
 
 ---
 
@@ -41,7 +41,7 @@ Designed with a modern dark theme and intuitive layout, **SpyFi** merges analyti
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ![Dashboard Screenshot 1](https://github.com/user-attachments/assets/eb574933-5bf9-485b-ae54-ae72024f6db7)  
 ![Dashboard Screenshot 2](https://github.com/user-attachments/assets/c3a25ea5-ef07-4033-a0c0-2af6cc493ee1)  
