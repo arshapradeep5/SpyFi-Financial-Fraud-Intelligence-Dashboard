@@ -2,11 +2,9 @@
 
 # SpyFi – Financial Fraud Intelligence Dashboard
 
-  **Theme**: Dark
-  **Tool**: Power BI
-  **Purpose**: Real-time financial fraud detection and risk insights
+  **Theme**: Dark | **Tool**: Power BI | **Purpose**: Real-time financial fraud detection and risk insights
 
----
+
 
 ## 🌐 Overview
 
@@ -18,7 +16,6 @@
 
 Designed with a modern dark theme and intuitive layout, **SpyFi** merges analytics with visual storytelling to support real-time decisions in financial environments.
 
----
 
 ## Key Features
 
@@ -31,7 +28,6 @@ Designed with a modern dark theme and intuitive layout, **SpyFi** merges analyti
 - **Dynamic Drilldowns**: Filter by channel, customer, transaction type, and time  
 - **Red Accents**: Emphasize risk and anomaly sections  
 
----
 
 ## 🛠 Tech Stack
 
@@ -41,14 +37,14 @@ Designed with a modern dark theme and intuitive layout, **SpyFi** merges analyti
 - **Data Modeling**  
 - **Role-Level Security (RLS)**  
 
----
+
 
 ## Screenshots
 
 ![Dashboard Screenshot 1](https://github.com/user-attachments/assets/eb574933-5bf9-485b-ae54-ae72024f6db7)  
 ![Dashboard Screenshot 2](https://github.com/user-attachments/assets/c3a25ea5-ef07-4033-a0c0-2af6cc493ee1)  
 
----
+
 
 ## 👤 User Roles & Access Control
 
@@ -63,7 +59,6 @@ Designed with a modern dark theme and intuitive layout, **SpyFi** merges analyti
 - Read-only access  
 - Can view suspicious transactions and anomaly reports  
 
----
 
 ## 📬 Connect with Me
 
