@@ -1,4 +1,7 @@
 /* Updated CSS to match the modern dark-themed Power BI dashboard UI */
+h1:first-of-type {
+  display: none;
+}
 
 body {
   background-color: #121212;
