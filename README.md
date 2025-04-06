@@ -2,7 +2,9 @@
 
 # SpyFi – Financial Fraud Intelligence Dashboard
 
-> **Theme**: Dark | **Tool**: Power BI | **Purpose**: Real-time financial fraud detection and risk insights
+  **Theme**: Dark
+  **Tool**: Power BI
+  **Purpose**: Real-time financial fraud detection and risk insights
 
 ---
 
